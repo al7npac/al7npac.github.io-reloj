@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background: #454545;
+}
+
+#reloj{
+    background: #3d3d3d;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#horaC{
+    font-size: 98px;
+    background: #d1d1d1;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#diaS{
+    padding: 10px;
+    font-size: 24px;
+    color: #e7e7e7;
+}
+
+#fecha{
+    padding: 5px;
+    font-size: 24px;
+    color: #e7e7e7;
+}
